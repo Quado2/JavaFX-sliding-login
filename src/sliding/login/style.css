@@ -1,0 +1,18 @@
+
+.text_input{
+    -fx-border-color: #4fd4f0;
+    -fx-border-radius: 30px;
+    -fx-text-fill: white;
+}
+
+
+.text_input:focused{
+    -fx-border-color: transparent;
+}
+
+.pane{
+    -fx-background-position: center;
+    -fx-background-size: cover;
+    
+}
+
